@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "StalkerRTS/Core/BasicPlayerCharacter.h"
+#include "Core/BasicPlayerCharacter.h"
 
 // Sets default values
 ABasicPlayerCharacter::ABasicPlayerCharacter()
